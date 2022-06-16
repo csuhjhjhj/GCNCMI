@@ -29,4 +29,6 @@ Graph Neural Network -->
 
 Our dataset contains 821 miRNAs and 2115 circRNAs, which we divide into a 5-fold cross-validation dataset.
 
-
+#Usage
+config目录下的GCNCMI.conf文件可以修改模型的参数
+运行GCNCMI中的main函数，开始训练。
