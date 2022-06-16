@@ -35,3 +35,4 @@ Our dataset contains 821 miRNAs and 2115 circRNAs, which we divide into a 5-fold
 
 2.Run the main function in GCNCMI to start training.
 
+3.If you want to reuse our code, you can replace your dataset in the dataprocess method, but you need to preprocess the dataset first.
