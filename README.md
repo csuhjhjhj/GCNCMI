@@ -1,6 +1,6 @@
 # GCNCMI
 
-基于图神经网络的CircRNA-miRNA相互作用预测
+GCNCMI: A graph convolutional neural network approach for predicting circRNA-miRNA interactions
 
 # Requerments
 
@@ -34,3 +34,4 @@ Our dataset contains 821 miRNAs and 2115 circRNAs, which we divide into a 5-fold
 
 
 2.Run the main function in GCNCMI to start training.
+
